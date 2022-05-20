@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    color: royalblue;
+}
+
+.block{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.element{
+    width: 25%;
+    height: 300px;
+    border: 2px red solid;
+    background: gray;
+}

@@ -1,0 +1,25 @@
+@media(max-width:1200px) {
+    .title {
+        color: red;
+        font-size: 16px;
+    }
+}
+
+@media(max-width:992px) {
+    .title {
+        color: sandybrown;
+    }
+}
+
+@media(max-width:768px) {
+    .element {
+        width: 50%;
+    }
+}
+
+@media(max-width:576px) {
+    .element {
+        width: 100%;
+        height: max-content;
+    }
+}
